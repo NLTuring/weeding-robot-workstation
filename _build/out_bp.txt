@@ -1,0 +1,46 @@
+── 第一遍：测量页码 ──
+已生成：D:\挑战杯项目\除草机器人幼苗-杂草辨识与作业规划系统\商业计划书_设计纲要.docx
+Added TOC 1 style (ID: 9)
+Added TOC 2 style (ID: 11)
+Added TOC 3 style (ID: 12)
+TOC style mapping: {1: '9', 2: '11', 3: '12'}
+Fixed: added <w:updateFields w:val="true"/> to settings.xml
+Fixed: added outlineLvl=0 to Heading1 style
+Fixed: added outlineLvl=1 to Heading2 style
+Fixed: added outlineLvl=2 to Heading3 style
+Fixed: added outlineLvl=3 to Heading4 style
+Fixed: added outlineLvl=4 to Heading5 style
+Fixed: added outlineLvl=5 to Heading6 style
+Fixed: split merged fldChar begin+instrText+separate into separate <w:r> elements
+Added 23 bookmarks to Heading paragraphs
+Inserted 23 TOC placeholder entries
+前置页数=3  标题=23  已定位=23  未定位=0
+── 第二遍：回填实测页码 ──
+已生成：D:\挑战杯项目\除草机器人幼苗-杂草辨识与作业规划系统\商业计划书_设计纲要.docx
+Added TOC 1 style (ID: 9)
+Added TOC 2 style (ID: 11)
+Added TOC 3 style (ID: 12)
+TOC style mapping: {1: '9', 2: '11', 3: '12'}
+Fixed: added <w:updateFields w:val="true"/> to settings.xml
+Fixed: added outlineLvl=0 to Heading1 style
+Fixed: added outlineLvl=1 to Heading2 style
+Fixed: added outlineLvl=2 to Heading3 style
+Fixed: added outlineLvl=3 to Heading4 style
+Fixed: added outlineLvl=4 to Heading5 style
+Fixed: added outlineLvl=5 to Heading6 style
+Fixed: split merged fldChar begin+instrText+separate into separate <w:r> elements
+Added 23 bookmarks to Heading paragraphs
+Inserted 23 TOC placeholder entries
+── 检查 ──
+  ⚠️ [blank-pages] Found 1 empty paragraphs with PageBreak (suggest attaching PageBreak to content paragraphs)
+  ✅ [cover-overflow] Cover section layout looks OK
+  ⚠️ [line-spacing] Line spacing inconsistent: {'default': 28, '920': 1, '276': 1, '380': 5, '312': 72, '300': 26, '290': 47, '280': 294}, 180/474 paragraphs differ from dominant spacing 280
+  ✅ [image-overflow] All images within page width (0 images)
+  ✅ [font-fallback] All fonts are common system fonts (2 types)
+  ✅ [heading-levels] Heading levels continuous (23 headings)
+  ✅ [shading-type] No ShadingType.SOLID misuse found
+  ✅ [toc] TOC field present and update-ready
+  ✅ [image-aspect-ratio] All images have correct aspect ratio (0 images)
+  Passed 7/9 | ❌ 0 errors | ⚠️ 2 warnings
+总页数: 16（前置 3 + 正文 13）
+已输出: D:\挑战杯项目\除草机器人幼苗-杂草辨识与作业规划系统\商业计划书_设计纲要.docx
